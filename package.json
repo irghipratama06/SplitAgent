@@ -1,0 +1,2 @@
+{"name":"split","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build","test":"vitest run"},
+"dependencies":{"@unicitylabs/sphere-sdk":"latest"},"devDependencies":{"vite":"^5.4.0","vitest":"^2.1.0","typescript":"^5.5.0"}}
